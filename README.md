@@ -19,31 +19,6 @@ I enjoy working on:
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🤖 Robotics
-- ROS2, Nav2
-- SLAM Toolbox
-- Gazebo, RViz
-
-### 💻 Programming
-- Python, C++
-- Linux (Ubuntu)
-- Git
-
-### 🧭 Navigation & Perception
-- SLAM
-- Sensor Fusion
-- Path Planning
-- Obstacle Avoidance
-
-### 🔌 Hardware & Embedded
-- LiDAR, IMU, Cameras
-- UART, I2C, SPI
-- Microcontrollers (ESP32)
-
----
-
 ## 🚀 Projects
 
 ### 🔹 Patrol Bot – ROS2 Autonomous Mobile Robot
