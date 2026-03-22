@@ -31,7 +31,6 @@ I enjoy working on:
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/nagaraja-mothukuri-ba40921ba/
-- Email : mothukurinagaraja2801@gmail.com
 ---
 
 ⭐ *“Building intelligent robots that solve real-world problems.”*
