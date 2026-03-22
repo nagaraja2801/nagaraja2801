@@ -19,24 +19,6 @@ I enjoy working on:
 
 ---
 
-## 🚀 Projects
-
-### 🔹 Patrol Bot – ROS2 Autonomous Mobile Robot
-- Autonomous navigation using Nav2
-- SLAM-based mapping
-- Obstacle avoidance with LiDAR
-- Simulation in Gazebo + real robot deployment  
-
-👉 https://github.com/nagaraja2801/Partol_bot-ROS2-
-
-
-### 🔹 ESP32 Mecanum Robot
-- Holonomic movement system
-- Wireless control via WiFi/Bluetooth  
-- Embedded + robotics integration  
-
----
-
 ## 📈 Currently Learning
 
 - Advanced ROS2 (Lifecycle nodes, DDS)
